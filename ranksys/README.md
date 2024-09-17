@@ -14,6 +14,8 @@ This is WEB version of [OciXCrom's Rank System](https://amxx-bg.info/forum/viewt
 
 > Mobile friendly (Responsive)
 
+> Search Bar
+
 <p></p>
 
 <h1>Installation</h1>
